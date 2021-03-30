@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\ADMIN\Desktop\lab2.6\lab2.6\Rational.cpp(127): warning C4715: 'Rational::ComparePairs': not all control paths return a value
+     Creating library C:\Users\ADMIN\Desktop\lab2.6\lab2.6\Debug\UnitTest1.lib and object C:\Users\ADMIN\Desktop\lab2.6\lab2.6\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\ADMIN\Desktop\lab2.6\lab2.6\Debug\UnitTest1.dll

@@ -1,0 +1,2 @@
+C:\Users\ADMIN\Desktop\lab2.6\lab2.6\Debug\lab2.6.exe
+C:\Users\ADMIN\Desktop\lab2.6\lab2.6\Debug\lab2.6.pdb
